@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\basit hesap makinası\basit hesap makinası\obj\Debug\basit hesap makinası.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\basit hesap makinası\basit hesap makinası\obj\Debug\basit hesap makinası.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\basit hesap makinası\basit hesap makinası\obj\Debug\basit_hesap_makinası.Form1.resources
+C:\Users\User\source\repos\basit hesap makinası\basit hesap makinası\obj\Debug\basit_hesap_makinası.Properties.Resources.resources
+C:\Users\User\source\repos\basit hesap makinası\basit hesap makinası\obj\Debug\basit hesap makinası.csproj.GenerateResource.cache
+C:\Users\User\source\repos\basit hesap makinası\basit hesap makinası\obj\Debug\basit hesap makinası.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\basit hesap makinası\basit hesap makinası\bin\Debug\basit hesap makinası.exe.config
+C:\Users\User\source\repos\basit hesap makinası\basit hesap makinası\bin\Debug\basit hesap makinası.exe
+C:\Users\User\source\repos\basit hesap makinası\basit hesap makinası\bin\Debug\basit hesap makinası.pdb
+C:\Users\User\source\repos\basit hesap makinası\basit hesap makinası\obj\Debug\basit hesap makinası.exe
+C:\Users\User\source\repos\basit hesap makinası\basit hesap makinası\obj\Debug\basit hesap makinası.pdb
